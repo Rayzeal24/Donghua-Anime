@@ -1,0 +1,191 @@
+{
+  "common": {
+    "appName": "DonghuaStream",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "back": "Retour",
+    "search": "Rechercher",
+    "noResults": "Aucun résultat",
+    "seeAll": "Voir tout",
+    "close": "Fermer",
+    "confirm": "Confirmer",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "nav": {
+    "home": "Accueil",
+    "catalogue": "Catalogue",
+    "library": "Bibliothèque",
+    "favorites": "Favoris",
+    "history": "Historique",
+    "search": "Rechercher",
+    "admin": "Administration",
+    "profile": "Profil",
+    "login": "Connexion",
+    "register": "Inscription",
+    "logout": "Déconnexion"
+  },
+  "home": {
+    "hero": {
+      "title": "Votre plateforme de Donghua",
+      "subtitle": "Découvrez les meilleurs donghua et animés chinois, légalement et gratuitement.",
+      "cta": "Regarder",
+      "details": "Plus d'infos",
+      "streaming": "Streaming gratuit & legal"
+    },
+    "sections": {
+      "featured": "À la une",
+      "recent": "Nouveautés",
+      "popular": "Populaires",
+      "donghua": "Donghua",
+      "anime": "Animés",
+      "continueWatching": "Reprendre la lecture"
+    }
+  },
+  "catalogue": {
+    "title": "Catalogue",
+    "filters": {
+      "genre": "Genre",
+      "year": "Année",
+      "type": "Type",
+      "status": "Statut",
+      "sort": "Trier par",
+      "all": "Tous",
+      "sortOptions": {
+        "newest": "Plus récents",
+        "oldest": "Plus anciens",
+        "titleAsc": "Titre A-Z",
+        "titleDesc": "Titre Z-A"
+      }
+    },
+    "noContent": "Aucun contenu trouvé"
+  },
+  "content": {
+    "episodes": "Épisodes",
+    "episode": "Épisode",
+    "watchNow": "Regarder maintenant",
+    "addFavorites": "Ajouter aux favoris",
+    "removeFavorites": "Retirer des favoris",
+    "markWatched": "Marquer comme vu",
+    "similar": "Contenus similaires",
+    "year": "Année",
+    "status": "Statut",
+    "type": "Type",
+    "genres": "Genres",
+    "totalEpisodes": "Total épisodes",
+    "ongoing": "En cours",
+    "completed": "Terminé",
+    "upcoming": "À venir",
+    "description": "Description"
+  },
+  "player": {
+    "previous": "Épisode précédent",
+    "next": "Épisode suivant",
+    "backToContent": "Retour au contenu",
+    "nowPlaying": "Lecture en cours"
+  },
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "email": "Adresse email",
+      "password": "Mot de passe",
+      "submit": "Se connecter",
+      "noAccount": "Pas encore de compte ?",
+      "register": "Créer un compte",
+      "error": "Email ou mot de passe incorrect"
+    },
+    "register": {
+      "title": "Créer un compte",
+      "name": "Nom d'utilisateur",
+      "email": "Adresse email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "submit": "S'inscrire",
+      "hasAccount": "Déjà un compte ?",
+      "login": "Se connecter",
+      "success": "Compte créé avec succès"
+    },
+    "errors": {
+      "invalidEmail": "Email invalide",
+      "passwordMin": "8 caractères minimum",
+      "passwordMismatch": "Les mots de passe ne correspondent pas",
+      "emailTaken": "Cet email est déjà utilisé",
+      "nameTaken": "Ce nom d'utilisateur est déjà pris",
+      "nameInvalid": "Ce nom d'utilisateur n'est pas autorisé",
+      "invalidCredentials": "Email ou mot de passe incorrect",
+      "banned": "Votre compte a été suspendu"
+    }
+  },
+  "library": {
+    "title": "Ma bibliothèque",
+    "tabs": {
+      "favorites": "Favoris",
+      "history": "Historique",
+      "continueWatching": "Reprendre"
+    },
+    "empty": {
+      "favorites": "Aucun favori pour le moment",
+      "history": "Aucun historique de visionnage",
+      "continueWatching": "Aucune lecture en cours"
+    },
+    "loginRequired": "Connectez-vous pour accéder à votre bibliothèque"
+  },
+  "profile": {
+    "title": "Mon profil",
+    "name": "Nom",
+    "email": "Email",
+    "language": "Langue préférée",
+    "saved": "Profil mis à jour",
+    "deleteAccount": "Supprimer mon compte",
+    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est irréversible."
+  },
+  "admin": {
+    "title": "Administration",
+    "dashboard": {
+      "title": "Tableau de bord",
+      "totalContents": "Contenus",
+      "totalUsers": "Utilisateurs",
+      "totalEpisodes": "Épisodes",
+      "totalViews": "Visionnages"
+    },
+    "contents": {
+      "title": "Gestion des contenus",
+      "add": "Ajouter un contenu",
+      "edit": "Modifier",
+      "delete": "Supprimer",
+      "episodes": "Gérer les épisodes",
+      "addEpisode": "Ajouter un épisode"
+    },
+    "users": {
+      "title": "Gestion des utilisateurs",
+      "ban": "Bannir",
+      "unban": "Débannir",
+      "makeModerator": "Nommer modérateur",
+      "makeContentManager": "Nommer gestionnaire",
+      "removeRole": "Retirer rôle",
+      "delete": "Supprimer"
+    }
+  },
+  "legal": {
+    "mentions": "Mentions légales",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "contact": "Contact",
+    "disclaimer": "Seuls des contenus légalement diffusables sont référencés sur cette plateforme."
+  },
+  "search": {
+    "title": "Recherche",
+    "placeholder": "Rechercher un donghua",
+    "results": "résultats pour",
+    "noResults": "Aucun résultat pour"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "legalNotice": "Cette plateforme ne diffuse que des contenus légalement intégrables et autorisés."
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "common": {
+    "appName": "DonghuaStream",
+    "loading": "加载中...",
+    "error": "发生错误",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "add": "添加",
+    "back": "返回",
+    "search": "搜索",
+    "noResults": "没有结果",
+    "seeAll": "查看全部",
+    "close": "关闭",
+    "confirm": "确认",
+    "yes": "是",
+    "no": "否"
+  },
+  "nav": {
+    "home": "首页",
+    "catalogue": "目录",
+    "library": "我的库",
+    "favorites": "收藏",
+    "history": "历史",
+    "search": "搜索",
+    "admin": "管理",
+    "profile": "个人资料",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出"
+  },
+  "home": {
+    "hero": {
+      "title": "您的国漫平台",
+      "subtitle": "免费合法观看最优质的国漫和中国动画。",
+      "cta": "立即观看",
+      "details": "了解更多",
+      "streaming": "免费合法观看"
+    },
+    "sections": {
+      "featured": "精选推荐",
+      "recent": "最新上线",
+      "popular": "热门作品",
+      "donghua": "国漫",
+      "anime": "动漫",
+      "continueWatching": "继续观看"
+    }
+  },
+  "catalogue": {
+    "title": "目录",
+    "filters": {
+      "genre": "类型",
+      "year": "年份",
+      "type": "分类",
+      "status": "状态",
+      "sort": "排序",
+      "all": "全部",
+      "sortOptions": {
+        "newest": "最新优先",
+        "oldest": "最早优先",
+        "titleAsc": "标题 A-Z",
+        "titleDesc": "标题 Z-A"
+      }
+    },
+    "noContent": "未找到内容"
+  },
+  "content": {
+    "episodes": "集数",
+    "episode": "第",
+    "watchNow": "立即观看",
+    "addFavorites": "加入收藏",
+    "removeFavorites": "取消收藏",
+    "markWatched": "标记已看",
+    "similar": "相似内容",
+    "year": "年份",
+    "status": "状态",
+    "type": "类型",
+    "genres": "分类",
+    "totalEpisodes": "总集数",
+    "ongoing": "连载中",
+    "completed": "已完结",
+    "upcoming": "即将上线",
+    "description": "简介"
+  },
+  "player": {
+    "previous": "上一集",
+    "next": "下一集",
+    "backToContent": "返回详情",
+    "nowPlaying": "正在播放"
+  },
+  "auth": {
+    "login": {
+      "title": "登录",
+      "email": "邮箱地址",
+      "password": "密码",
+      "submit": "登录",
+      "noAccount": "没有账号？",
+      "register": "创建账号",
+      "error": "邮箱或密码错误"
+    },
+    "register": {
+      "title": "创建账号",
+      "name": "用户名",
+      "email": "邮箱地址",
+      "password": "密码",
+      "confirmPassword": "确认密码",
+      "submit": "注册",
+      "hasAccount": "已有账号？",
+      "login": "登录",
+      "success": "账号创建成功"
+    },
+    "errors": {
+      "invalidEmail": "邮箱格式错误",
+      "passwordMin": "至少6个字符",
+      "passwordMismatch": "密码不匹配",
+      "emailTaken": "该邮箱已被使用",
+      "invalidCredentials": "邮箱或密码错误",
+      "banned": "您的账号已被封禁"
+    }
+  },
+  "library": {
+    "title": "我的库",
+    "tabs": {
+      "favorites": "收藏",
+      "history": "历史",
+      "continueWatching": "继续"
+    },
+    "empty": {
+      "favorites": "暂无收藏",
+      "history": "暂无观看记录",
+      "continueWatching": "暂无在看内容"
+    },
+    "loginRequired": "请登录以访问您的库"
+  },
+  "profile": {
+    "title": "个人资料",
+    "name": "姓名",
+    "email": "邮箱",
+    "language": "首选语言",
+    "saved": "资料已更新",
+    "deleteAccount": "删除账号",
+    "deleteConfirm": "确定要删除账号吗？此操作不可撤销。"
+  },
+  "admin": {
+    "title": "管理后台",
+    "dashboard": {
+      "title": "仪表盘",
+      "totalContents": "内容数",
+      "totalUsers": "用户数",
+      "totalEpisodes": "集数",
+      "totalViews": "观看数"
+    },
+    "contents": {
+      "title": "内容管理",
+      "add": "添加内容",
+      "edit": "编辑",
+      "delete": "删除",
+      "episodes": "管理集数",
+      "addEpisode": "添加集数"
+    },
+    "users": {
+      "title": "用户管理",
+      "ban": "封禁",
+      "unban": "解封",
+      "makeAdmin": "设为管理员",
+      "removeAdmin": "取消管理员"
+    }
+  },
+  "legal": {
+    "mentions": "法律声明",
+    "terms": "使用条款",
+    "privacy": "隐私政策",
+    "contact": "联系我们",
+    "disclaimer": "本平台仅收录合法可传播的内容。"
+  },
+  "search": {
+    "title": "搜索",
+    "placeholder": "搜索国漫",
+    "results": "的搜索结果",
+    "noResults": "没有找到关于"
+  },
+  "footer": {
+    "rights": "版权所有",
+    "legalNotice": "本平台仅嵌入合法授权的内容。"
+  }
+}

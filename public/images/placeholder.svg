@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" fill="none">
+  <rect width="400" height="600" fill="#18181b"/>
+  <rect width="400" height="600" fill="url(#grad)" opacity="0.5"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="400" y2="600">
+      <stop offset="0%" stop-color="#27272a"/>
+      <stop offset="50%" stop-color="#1e1e22"/>
+      <stop offset="100%" stop-color="#27272a"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(200,260)" opacity="0.25">
+    <rect x="-40" y="-30" width="80" height="60" rx="8" stroke="#71717a" stroke-width="2" fill="none"/>
+    <circle cx="-18" cy="-10" r="6" stroke="#71717a" stroke-width="2" fill="none"/>
+    <path d="M-30 20 L-10 0 L5 12 L15 4 L30 20" stroke="#71717a" stroke-width="2" fill="none" stroke-linejoin="round"/>
+  </g>
+  <text x="200" y="320" text-anchor="middle" fill="#52525b" font-family="system-ui,sans-serif" font-size="14" font-weight="500">Image non disponible</text>
+</svg>

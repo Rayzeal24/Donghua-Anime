@@ -1,0 +1,187 @@
+{
+  "common": {
+    "appName": "DonghuaStream",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "back": "Back",
+    "search": "Search",
+    "noResults": "No results",
+    "seeAll": "See all",
+    "close": "Close",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "nav": {
+    "home": "Home",
+    "catalogue": "Catalogue",
+    "library": "Library",
+    "favorites": "Favorites",
+    "history": "History",
+    "search": "Search",
+    "admin": "Admin",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Sign up",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "Your Donghua Platform",
+      "subtitle": "Discover the best donghua and Chinese anime, legally and for free.",
+      "cta": "Watch now",
+      "details": "More info",
+      "streaming": "Free & legal streaming"
+    },
+    "sections": {
+      "featured": "Featured",
+      "recent": "New releases",
+      "popular": "Popular",
+      "donghua": "Donghua",
+      "anime": "Anime",
+      "continueWatching": "Continue watching"
+    }
+  },
+  "catalogue": {
+    "title": "Catalogue",
+    "filters": {
+      "genre": "Genre",
+      "year": "Year",
+      "type": "Type",
+      "status": "Status",
+      "sort": "Sort by",
+      "all": "All",
+      "sortOptions": {
+        "newest": "Newest first",
+        "oldest": "Oldest first",
+        "titleAsc": "Title A-Z",
+        "titleDesc": "Title Z-A"
+      }
+    },
+    "noContent": "No content found"
+  },
+  "content": {
+    "episodes": "Episodes",
+    "episode": "Episode",
+    "watchNow": "Watch now",
+    "addFavorites": "Add to favorites",
+    "removeFavorites": "Remove from favorites",
+    "markWatched": "Mark as watched",
+    "similar": "Similar content",
+    "year": "Year",
+    "status": "Status",
+    "type": "Type",
+    "genres": "Genres",
+    "totalEpisodes": "Total episodes",
+    "ongoing": "Ongoing",
+    "completed": "Completed",
+    "upcoming": "Upcoming",
+    "description": "Description"
+  },
+  "player": {
+    "previous": "Previous episode",
+    "next": "Next episode",
+    "backToContent": "Back to content",
+    "nowPlaying": "Now playing"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email address",
+      "password": "Password",
+      "submit": "Sign in",
+      "noAccount": "Don't have an account?",
+      "register": "Create account",
+      "error": "Invalid email or password"
+    },
+    "register": {
+      "title": "Create account",
+      "name": "Username",
+      "email": "Email address",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "submit": "Sign up",
+      "hasAccount": "Already have an account?",
+      "login": "Sign in",
+      "success": "Account created successfully"
+    },
+    "errors": {
+      "invalidEmail": "Invalid email",
+      "passwordMin": "6 characters minimum",
+      "passwordMismatch": "Passwords don't match",
+      "emailTaken": "This email is already taken",
+      "invalidCredentials": "Invalid email or password",
+      "banned": "Your account has been suspended"
+    }
+  },
+  "library": {
+    "title": "My Library",
+    "tabs": {
+      "favorites": "Favorites",
+      "history": "History",
+      "continueWatching": "Continue"
+    },
+    "empty": {
+      "favorites": "No favorites yet",
+      "history": "No watch history",
+      "continueWatching": "No content in progress"
+    },
+    "loginRequired": "Login to access your library"
+  },
+  "profile": {
+    "title": "My Profile",
+    "name": "Name",
+    "email": "Email",
+    "language": "Preferred language",
+    "saved": "Profile updated",
+    "deleteAccount": "Delete my account",
+    "deleteConfirm": "Are you sure you want to delete your account? This action cannot be undone."
+  },
+  "admin": {
+    "title": "Administration",
+    "dashboard": {
+      "title": "Dashboard",
+      "totalContents": "Contents",
+      "totalUsers": "Users",
+      "totalEpisodes": "Episodes",
+      "totalViews": "Views"
+    },
+    "contents": {
+      "title": "Content management",
+      "add": "Add content",
+      "edit": "Edit",
+      "delete": "Delete",
+      "episodes": "Manage episodes",
+      "addEpisode": "Add episode"
+    },
+    "users": {
+      "title": "User management",
+      "ban": "Ban",
+      "unban": "Unban",
+      "makeAdmin": "Promote to admin",
+      "removeAdmin": "Remove admin"
+    }
+  },
+  "legal": {
+    "mentions": "Legal notice",
+    "terms": "Terms of use",
+    "privacy": "Privacy policy",
+    "contact": "Contact",
+    "disclaimer": "Only legally distributable content is referenced on this platform."
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search for a donghua",
+    "results": "results for",
+    "noResults": "No results for"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "legalNotice": "This platform only embeds legally available and authorized content."
+  }
+}
